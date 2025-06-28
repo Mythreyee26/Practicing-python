@@ -1,2 +1,2 @@
-# Practicing-python
-My Python learning journey: Python practice playground – strings, logic, loops, and more.
+🐍 Practicing Python – Code Challenges & Learning
+Welcome to my Python practice repo! 
